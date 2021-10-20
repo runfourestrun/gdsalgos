@@ -1,0 +1,2 @@
+1. What are common algos to chain together. 
+2. Is it best practice  to run the 
